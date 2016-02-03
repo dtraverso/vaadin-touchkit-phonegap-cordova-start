@@ -6,14 +6,14 @@
         id        = "com.vaadin.demo.parking"
         version   = "1.0.0">
 
-    <name>Parking</name>
+    <name>Angarus.io</name>
 
     <description>
-        Vaadin Parking Demo.
+        Angarus Demo.
     </description>
 
-    <author href="http://vaadin.com" email="manolo@vaadin.com">
-        Manolo Carrasco Moñino
+    <author href="http://www.angarus.io" email="dario@angarus.io">
+        Dario Traverso
     </author>
 
     <!--
